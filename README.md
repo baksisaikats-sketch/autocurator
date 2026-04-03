@@ -1,0 +1,2 @@
+# autocurator
+analyses paintings
